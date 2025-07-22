@@ -1,0 +1,3 @@
+[submodule "vitonhd"]
+	path = vitonhd
+	url = https://github.com/Moulik116/VITON-HD
